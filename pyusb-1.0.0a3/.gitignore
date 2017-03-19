@@ -1,0 +1,5 @@
+*.pyc
+build
+ChangeLog
+MANIFEST
+dist
