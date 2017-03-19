@@ -14,12 +14,12 @@ Usage:
 3. type `sudo python pygarmin "usb:" info` at the command line and hit return.
 This produces the following text from my watch:
 
-*** Product Info ***
-Forerunner205 Software Version 2.80
-GPS Product ID: 484
-Software version: 2.80
+    *** Product Info ***
+    Forerunner205 Software Version 2.80
+    GPS Product ID: 484
+    Software version: 2.80
 
 4. Then type `sudo python garmin-sync.py` and hit return.
 This should copy all tcx files from the watch to a folder called "exports".
 
-The tcx files can be uploaded to runkeeper for example
+The tcx files can be uploaded to [runkeeper](https://runkeeper.com/user/bjornfjohansson/profile) for example.
